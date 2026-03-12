@@ -1,6 +1,6 @@
 # Resume Writing Agent Skills
 
-Research-backed agent skills for writing resumes that actually get interviews. Every rule traces back to a real study, not recycled blog advice.
+Research-backed agentic skills for writing better resumes. Every rule traces back to a real study, not recycled blog advice.
 
 ## Skills
 
