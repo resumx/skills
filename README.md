@@ -11,10 +11,11 @@ Research-backed agent skills for writing resumes that actually get interviews. E
 
 ## References
 
-| Source | Description |
+| Source | Used in skill for |
 | --- | --- |
-| [NBER Working Paper 30886](https://www.nber.org/papers/w30886) | Field experiment (n ≈ 500k) showing algorithmic writing assistance yields 8% more hires and 10% higher wages |
-| [ScoutApply Keyword Matching Research](https://scoutapply.com/research/keyword-matching-statistics) | Analysis of 2.5M applications finding job title match alone produces 10.6x higher interview rates |
-| [JobEase ATS Tracking Study](https://jobease.ca/blog/i-tracked-15-000-job-applications-through-ats-systems-here-s-what-actually-triggers-rejections) | Tracked 15,000 applications through ATS systems, found 94% never reach human eyes |
-| [Edligo ATS Rejection Analysis](https://www.edligo.net/job-search-tips/i-analyzed-1000-rejected-resumes-heres-what-ats-actually-sees-and-its-not-what-you-think/) | Analysis of 1,000 rejected resumes showing 73% of ATS rejections happen in the first 10 seconds |
-| [TheLadders Eye-Tracking Study (PDF)](https://www.bu.edu/com/files/2018/10/TheLadders-EyeTracking-StudyC2.pdf) | Eye-tracking data showing recruiters spend an average of 7.4 seconds scanning a resume |
+| [NBER Working Paper 30886](https://www.nber.org/papers/w30886) | "Why this matters": 8% more hires, 10% higher wages from better writing |
+| [ScoutApply Keyword Matching](https://scoutapply.com/research/keyword-matching-statistics) | Tailoring rule: job title match → 10.6x higher interview rate |
+| [MatchRate ATS Scan Data](https://www.matchrate.co/blog/resume-keywords-data) | Word choice pass rates from 10k+ ATS scans ("Responsible for" 23%, "Led" 96%, etc.) |
+| [Resume.io / Inc. Magazine](https://www.inc.com/jeff-haden/the-10-most-commonly-used-resume-buzzwords-hiring-managers-hate-most.html/) | 1,600+ hiring managers flagging "proven," "dedicated," "synergy" as irritating filler |
+| [ACL Anthology, 2022](https://aclanthology.org/2022.nlpcss-1.15/) | Gender signals remain detectable in CVs even after stripping names and pronouns |
+| [ICIS, 2021](https://aisel.aisnet.org/icis2021/data_analytics/data_analytics/17/) | Neutral, results-oriented verbs outperform both passive and aggressive extremes |
