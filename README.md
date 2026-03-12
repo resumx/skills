@@ -20,7 +20,7 @@ Data-driven rules for resume content, drawn from 500k+ hiring outcomes and 10k+ 
 
 ### [resumx](https://resumx.dev)
 
-Full reference for Resumx, a Markdown-to-PDF resume renderer with auto page fitting and tag-based tailoring.
+Full reference for Resumx, a CLI Markdown resume renderer for AI-first workflows, featuring auto page fitting and role-based tailoring.
 
 **Use when:**
 
