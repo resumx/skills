@@ -6,15 +6,30 @@ Research-backed skills for writing resumes. Every rule traces back to a real stu
 
 ### resume-writing
 
-Data-driven rules for resume content, drawn from 500k+ hiring outcomes and 10k+ ATS scans. Explains *why* certain wording hurts so the agent can apply the mental model, not just a word list.
+Data-driven rules for resume content, drawn from 500k+ hiring outcomes and 10k+ ATS scans. Explains why certain wording hurts (e.g. buzzwords lower pass rate, passive language signals subordination) so the agent can apply the mental model, not just a word list.
 
-**Use when:** writing, rewriting, or tailoring resume content
+**Use when:**
+
+- Writing or rewriting resume bullets or sections
+- Improving word choice, quantification, or phrasing
+- Tailoring a resume to a job description (keywords, tech-in-context)
+- Structuring or formatting a resume (headers, dates, promotion stack, visual hierarchy)
+- Checking for gendered language bias or aspirational filler
+
+**Covers:** strategic framing, bullet composition (XYZ, So what?, show don't tell), bullet priority and length, quantification and scale anchoring, ATS-tested word choice with causal framing, tailoring and keyword placement, structure and formatting (including de-junioring, interests), visual hierarchy (F-pattern, white space), gendered language
 
 ### [resumx](https://resumx.dev)
 
 Every time AI rewrites your resume, the layout breaks. Resumx fixes that by keeping your resume in Markdown, where content and layout are separate. AI edits freely, the PDF comes out perfectly fitted every time.
 
-**Use when:** creating, editing, tailoring, or building a Resumx resume
+**Use when:**
+
+- Creating or editing a Resumx resume
+- Configuring tags, views, or multi-language output
+- Styling, custom CSS, or page fitting
+- Using the CLI or converting from other formats
+
+**Covers:** syntax, CLI, frontmatter, style options, icons, tags, views, variables, multi-language, page fitting, validation, custom CSS
 
 ## Installation
 
