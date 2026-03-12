@@ -18,7 +18,7 @@ Data-driven rules for resume content, drawn from 500k+ hiring outcomes and 10k+ 
 
 **Covers:** strategic framing, bullet composition (XYZ, So what?, show don't tell), bullet priority and length, quantification and scale anchoring, ATS-tested word choice with causal framing, tailoring and keyword placement, structure and formatting (including de-junioring, interests), visual hierarchy (F-pattern, white space), gendered language
 
-### resumx
+### [resumx](https://resumx.dev)
 
 Full reference for Resumx, a Markdown-to-PDF resume renderer with auto page fitting and tag-based tailoring.
 
