@@ -20,7 +20,7 @@ Data-driven rules for resume content, drawn from 500k+ hiring outcomes and 10k+ 
 
 ### [resumx](https://resumx.dev)
 
-Full reference for Resumx, a CLI Markdown resume renderer for AI-first workflows, featuring auto page fitting and role-based tailoring.
+Every time AI rewrites your resume, the layout breaks. Resumx fixes that by keeping your resume in Markdown, where content and layout are separate. AI edits freely, the PDF comes out perfectly fitted every time.
 
 **Use when:**
 
