@@ -33,8 +33,20 @@ Every time AI rewrites your resume, the layout breaks. Resumx fixes that by keep
 
 ## Installation
 
+For editors that support agent skills (Claude, Cursor, GitHub Copilot, etc.):
+
 ```bash
 npx skills add resumx/skills
+```
+
+## Usage with ChatGPT, Gemini, or any AI chat
+
+Copy and paste this as the first message in your prompt (before uploading your resume):
+
+```
+Read and follow the resume writing rules from this URL: https://raw.githubusercontent.com/resumx/skills/main/skills/resume-writing/SKILL.md
+
+Rewrite my resume bullets using those rules.
 ```
 
 ## Sources
